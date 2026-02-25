@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Matheus 👋
 
-<!--
-**FirenSix/FirenSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Focused on Backend Development  
+🐍 Python | JavaScript | C  
 
-Here are some ideas to get you started:
+🚀 I build real projects to improve my problem-solving skills and software development knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- JavaScript
+- HTML & CSS
+- C
+
+## 📌 Goals
+- Improve backend skills
+- Build scalable systems
+- Grow as a professional developer
+
+
+## 📊 GitHub Stats
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![C](https://img.shields.io/badge/C-99-brightgreen)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FirenSix)
