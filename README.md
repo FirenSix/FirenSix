@@ -46,8 +46,7 @@ My responsive personal portfolio built to showcase my developer journey, academi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FirenSix&show_icons=true&theme=tokyonight&count_private=true" alt="Matheus's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirenSix&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="190px" />
+  <img src="https://animation-github-contributions.vercel.app/api/?username=FirenSix&theme=south-norway" alt="GitHub Contributions" width="100%" />
 </p>
 
 ---
@@ -55,3 +54,7 @@ My responsive personal portfolio built to showcase my developer journey, academi
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfavarovassoler/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devtheus_/)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=FirenSix&label=Profile%20views&color=0077b5&style=flat" alt="Profile Views" />
+</p>
