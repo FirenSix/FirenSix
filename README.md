@@ -46,8 +46,8 @@ My responsive personal portfolio built to showcase my developer journey, academi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devtheus_&show_icons=true&theme=tokyonight&count_private=true" alt="Matheus's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtheus_&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FirenSix&show_icons=true&theme=tokyonight&count_private=true" alt="Matheus's GitHub Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirenSix&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="190px" />
 </p>
 
 ---
