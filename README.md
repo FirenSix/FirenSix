@@ -1,4 +1,4 @@
-# Hi, I'm Matheus Favaro 👋
+# Hi, I'm Matheus Fávaro 👋
 
 ### 🎓 Software Engineering Student & Backend Enthusiast
 I am a Software Engineering student focused on building clean, efficient, and scalable backend systems. I combine my solid foundational knowledge in computing with a hands-on approach, developing real-world applications to solve practical problems.
