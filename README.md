@@ -43,15 +43,6 @@ My responsive personal portfolio built to showcase my developer journey, academi
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirenSix&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" alt="Top Languages" height="190px" />
-</p>
-
----
-
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfavarovassoler/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devtheus_/)
